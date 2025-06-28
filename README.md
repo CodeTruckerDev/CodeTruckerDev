@@ -30,7 +30,7 @@ Moja przygoda z kodem zaczęła się od prostej potrzeby — stworzenia czegoś,
 📱 **Aplikacja do śledzenia przebiegu auta**  
 Narzędzie stworzone z myślą o kierowcach – przede wszystkim dla mnie, ale może pomóc i Tobie.  
 Lokalna baza danych, prosty interfejs, żadnych kont, żadnych reklam.  
-Rejestruje przebieg i liczbę delegacji. Pracuję nad wersją rozszerzoną – teraz dostępna jest wersja uproszczona. W trakcie testów odkryłem w dwa drobne błędy, które są zaplanowane do poprawy.
+Rejestruje przebieg i liczbę delegacji. Pracuję nad wersją rozszerzoną – teraz dostępna jest wersja uproszczona. W trakcie testów odkryłem dwa drobne błędy, które są zaplanowane do poprawy.
 
 ## 🎯 Cel:
 Chcę rozwijać się jako programista — hobbystycznie, a może z czasem zawodowo. Koduję z pasją i uczę się każdego dnia.
