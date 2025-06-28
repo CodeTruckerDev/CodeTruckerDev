@@ -7,7 +7,7 @@ Nie mam dyplomu z informatyki, certyfikatów ani korporacyjnego doświadczenia.
 Za to mam coś innego: **determinację, marzenia i pasję do tworzenia rzeczy, które działają.**
 Uczę się sam, w swoim tempie. Tworzę aplikacje, które działają i mają sens - dla mnie, a być może kiedyś i dla Ciebie.
 
-Nie udaję eksperta. Ale każdego dnia **robię krok dalej** - nawet wtedy, gdy jestem zęczony, albo nie mam na nic czasau.
+Nie udaję eksperta. Ale każdego dnia **robię krok dalej** - nawet wtedy, gdy jestem zmęczony, albo nie mam na nic czasau.
 
 To repozytorium to zapis tej drogi
 
