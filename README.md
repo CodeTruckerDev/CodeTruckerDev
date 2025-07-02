@@ -27,15 +27,21 @@ Moja przygoda z kodem zaczęła się od prostej potrzeby — stworzenia czegoś,
 - **Linux** i **Windows** – jako codzienne środowiska pracy
 
 ## 📦 Projekty:
+
 📱 **Aplikacja do śledzenia przebiegu auta**  
+
 Narzędzie stworzone z myślą o kierowcach – przede wszystkim dla mnie, ale może pomóc i Tobie.  
 Lokalna baza danych, prosty interfejs, żadnych kont, żadnych reklam.  
 Rejestruje przebieg i liczbę delegacji. Pracuję nad wersją rozszerzoną – teraz dostępna jest wersja uproszczona. W trakcie testów odkryłem dwa drobne błędy, które są zaplanowane do poprawy.
 
 📱 **Obliczacz VAT**
+
 Prosty kalkulator kwoty netto i podatku VAT na podstawie kwoty brutto.  
 Aplikacja powstała z myślą o mojej Mamie – księgowej, która często potrzebowała szybkiego sposobu na obliczenia, bez sięgania po kalkulator czy arkusz kalkulacyjny.
 
+📱 **PESEL tester**
+
+Prosta aplikacja desktopowa w Pythonie (Tkinter), która sprawdza poprawność numeru PESEL na podstawie oficjalnego algorytmu (suma kontrolna).
 
 ## 🎯 Cel:
 Chcę rozwijać się jako programista — hobbystycznie, a może z czasem zawodowo. Koduję z pasją i uczę się każdego dnia.
