@@ -43,6 +43,10 @@ Aplikacja powstała z myślą o mojej Mamie – księgowej, która często potrz
 
 Prosta aplikacja desktopowa w Pythonie (Tkinter), która sprawdza poprawność numeru PESEL na podstawie oficjalnego algorytmu (suma kontrolna).
 
+📱 **Multi Multi złote liczby**
+
+Program porównywał "złote liczby" (stałe ulubione typy gracza) z wynikami Multi Multi z godz. 14:00 i 21:40, automatycznie pobierając dane i prezentując je w minimalistycznym GUI. To narzędzie dla gracza, który chce sprawdzić trafienia — bez reklam, bez bazy danych, bez dodatków. Prosto i skutecznie.
+
 ## 🎯 Cel:
 Chcę rozwijać się jako programista — hobbystycznie, a może z czasem zawodowo. Koduję z pasją i uczę się każdego dnia.
 Nie ograniczam się do Pythona — eksploruję również inne technologie i narzędzia.
