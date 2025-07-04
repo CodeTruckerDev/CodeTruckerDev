@@ -9,7 +9,7 @@ Uczę się sam, w swoim tempie. Tworzę aplikacje, które działają i mają sen
 
 Nie udaję eksperta. Ale każdego dnia **robię krok dalej** - nawet wtedy, gdy jestem zmęczony, albo nie mam na nic czasau.
 
-To repozytorium to zapis tej drogi
+To repozytorium to zapis tej drogi, która zaczęła się kilka lat temu i dojrzała do tego, by zostać pokazana światu.
 
 # 👋 Cześć, jestem CodeTruckerDev
 
