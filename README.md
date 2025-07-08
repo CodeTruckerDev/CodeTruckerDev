@@ -48,14 +48,16 @@ Narzędzie stworzone z myślą o kierowcach – przede wszystkim dla mnie, ale m
 Lokalna baza danych, prosty interfejs, żadnych kont, żadnych reklam.  
 Rejestruje przebieg i liczbę delegacji. Pracuję nad wersją rozszerzoną – teraz dostępna jest wersja uproszczona. W trakcie testów odkryłem dwa drobne błędy, które są zaplanowane do poprawy.
 
-📁 **Repozytorium:** [mileage](https://github.com/CodeTruckerDev/mileage)
+📁 **Repozytorium:** 
+[mileage](https://github.com/CodeTruckerDev/mileage)
 ---
 📱 **Obliczacz VAT**
 
 Prosty kalkulator kwoty netto i podatku VAT na podstawie kwoty brutto.  
 Aplikacja powstała z myślą o mojej Mamie – księgowej, która często potrzebowała szybkiego sposobu na obliczenia, bez sięgania po kalkulator czy arkusz kalkulacyjny.
 
-📁 **Repozytorium:** [obliczacz](https://github.com/CodeTruckerDev/Obliczacz-VAT)
+📁 **Repozytorium:** 
+[obliczacz](https://github.com/CodeTruckerDev/Obliczacz-VAT)
 ---
 📱 **PESEL tester**
 
