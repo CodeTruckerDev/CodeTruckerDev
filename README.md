@@ -1,8 +1,8 @@
 ## 📜 Spis treści
 
-- [🎯 Wizytówka – Super Secret Searcher](#Super-secret-searcher)
+- [🎯 Wizytówka – Super Secret Searcher](#wizytówka--super-secret-searcher)
 - [👤 Kim jestem](#kim-jestem)
-- [📦 Projekty](#-Projekty)
+- [📦 Projekty](#-projekty)
 - [📄 Manifest Twórcy Niezależnego](MANIFEST.md)
 
 
@@ -32,7 +32,7 @@ To repozytorium to zapis tej drogi, która zaczęła się kilka lat temu i dojrz
 
 Moja przygoda z kodem zaczęła się od prostej potrzeby — stworzenia czegoś, co realnie pomaga. Tak powstały pierwsze linijki kodu, które miały ograniczać uruchomienia systemu Windows. Od tego czasu tworzę aplikacje użytkowe, głównie w **Pythonie**, które ułatwiają życie – moje i być może innych. Specjalizuję się w graficznych aplikacjach użytkowych — od desktopowych po mobilne.
 
-## 🔧 Technologie, których używam najczęściej
+## Technologie, których używam najczęściej
 
 - **Python** – do tworzenia aplikacji użytkowych (desktopowych i mobilnych)
 - **Kivy** – tworzenie interfejsów graficznych na Androida
@@ -75,7 +75,7 @@ To lekki, żartobliwy projekt pokazujący, że programowanie może być miłą r
 
 📁 Repozytorium: [Super-secret-searcher](https://github.com/CodeTruckerDev/Super-secret-searcher)
 --
-## 🎯 Cel:
+## Cel:
 Chcę rozwijać się jako programista — hobbystycznie, a może z czasem zawodowo. Koduję z pasją i uczę się każdego dnia.
 Nie ograniczam się do Pythona — eksploruję również inne technologie i narzędzia.
 
