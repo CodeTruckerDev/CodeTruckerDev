@@ -1,3 +1,9 @@
+🎯 [Zobacz moją wizytówkę — Super Secret Searcher](https://github.com/CodeTruckerDev/Super-secret-searcher)
+
+To lekki projekt prezentacyjny — z przymrużeniem oka, ale zrobiony od A do Z.
+
+---
+
 ## Kim jestem?
 
 Nie jestem zawodowym programistą.
