@@ -1,3 +1,11 @@
+## 📜 Spis treści
+
+- [🎯 Wizytówka – Super Secret Searcher](#wizytówka--super-secret-searcher)
+- [👤 Kim jestem](#kim-jestem)
+- [🛠️ Projekty](#projekty)
+- [📄 Manifest Twórcy Niezależnego](MANIFEST.md)
+
+
 🎯 [Zobacz moją wizytówkę — Super Secret Searcher](https://github.com/CodeTruckerDev/Super-secret-searcher)
 
 To lekki projekt prezentacyjny — z przymrużeniem oka, ale zrobiony od A do Z.
