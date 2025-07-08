@@ -5,6 +5,7 @@
 - [📦 Projekty](#-projekty)
 - [📄 Manifest Twórcy Niezależnego](MANIFEST.md)
 
+## Wizytówka – Super Secret Searcher
 
 🎯 [Zobacz moją wizytówkę — Super Secret Searcher](https://github.com/CodeTruckerDev/Super-secret-searcher)
 
@@ -40,7 +41,7 @@ Moja przygoda z kodem zaczęła się od prostej potrzeby — stworzenia czegoś,
 - **SQLite** – lokalne bazy danych
 - **Linux** i **Windows** – jako codzienne środowiska pracy
 
-## Projekty:
+## Projekty
 
 📱 **Aplikacja do śledzenia przebiegu auta**  
 
