@@ -47,7 +47,7 @@ Rejestruje przebieg i liczbę delegacji. Pracuję nad wersją rozszerzoną – t
 Prosty kalkulator kwoty netto i podatku VAT na podstawie kwoty brutto.  
 Aplikacja powstała z myślą o mojej Mamie – księgowej, która często potrzebowała szybkiego sposobu na obliczenia, bez sięgania po kalkulator czy arkusz kalkulacyjny.
 
-📁 Repozytorium: [obliczacz](https://github.com/CodeTruckerDev/obliczacz)
+📁 Repozytorium: [obliczacz](https://github.com/CodeTruckerDev/Obliczacz-VAT)
 --
 📱 **PESEL tester**
 
@@ -59,7 +59,7 @@ Prosta aplikacja desktopowa w Pythonie (Tkinter), która sprawdza poprawność n
 
 Program porównywał "złote liczby" (stałe ulubione typy gracza) z wynikami Multi Multi z godz. 14:00 i 21:40, automatycznie pobierając dane i prezentując je w minimalistycznym GUI. To narzędzie dla gracza, który chce sprawdzić trafienia — bez reklam, bez bazy danych, bez dodatków. Prosto i skutecznie.
 
-📁 Repozytorium: [Multi multi](https://github.com/CodeTruckerDev/Multi-multi)
+📁 Repozytorium: [Multi multi](https://github.com/CodeTruckerDev/Multi-multi-z-ote-liczby)
 --
 📱 **Super secret searcher**
 
