@@ -1,8 +1,8 @@
 ## 📜 Spis treści
 
-- [🎯 Wizytówka – Super Secret Searcher](#wizytówka--super-secret-searcher)
+- [🎯 Wizytówka – Super Secret Searcher](#Super-secret-searcher)
 - [👤 Kim jestem](#kim-jestem)
-- [🛠️ Projekty](#projekty)
+- [📦 Projekty](#-Projekty)
 - [📄 Manifest Twórcy Niezależnego](MANIFEST.md)
 
 
@@ -40,7 +40,7 @@ Moja przygoda z kodem zaczęła się od prostej potrzeby — stworzenia czegoś,
 - **SQLite** – lokalne bazy danych
 - **Linux** i **Windows** – jako codzienne środowiska pracy
 
-## 📦 Projekty:
+## Projekty:
 
 📱 **Aplikacja do śledzenia przebiegu auta**  
 
