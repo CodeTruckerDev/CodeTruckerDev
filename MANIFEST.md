@@ -1,3 +1,5 @@
+This is my indepedent developer manifesto - written in Polish, my native language. It reflects who I am and why I build tools that matter. One day, I might translate it. But for now it stays honest and local.
+
 # Manifest Twórcy Niezależnego
 
 Nie mam dyplomu z programowania.
@@ -51,6 +53,8 @@ Bo w świecie pełnym gotowych rozwiązań, tworzenie czegoś własnego to akt r
 Bo znalazłem spokój w tworzeniu dla siebie, a ten spokój jest cenniejszy niż jakiekolwiek uznanie.
 
 Bo jestem kierowcą który programuje, nie programistą który prowadzi – i to właśnie jest moja siła.
+
+Tworzę narzędzia dla wolności. I nie zamierzam przestać.
 
 ---
 
