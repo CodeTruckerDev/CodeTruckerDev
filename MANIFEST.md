@@ -12,7 +12,7 @@ Ale mam coś, czego nie da się kupić ani nauczyć w tydzień: samoświadomoś�
 
 ## Kim jestem?
 
-Jestem twórcą niezależnym. Użytkownikiem rzeczywistości rozszerzonej.
+Jestem twórcą niezależnym. Użytkownikiem rzeczywistości rozszerzonej - nie opierającej się na zasadach jakie ten świat wytworzył aby oceniać profesjonalizm.
 
 Tworzę aplikacje, które działają, rozwiązują realne problemy i są użyteczne – przede wszystkim dla mnie.
 
@@ -48,11 +48,13 @@ Wierzę, że moja wartość nie pochodzi z tego co robię, ale z tego kim jestem
 
 Bo to jest mój sposób na refaktoryzację życia – kawałek po kawałku, projekt po projekcie.
 
-Bo w świecie pełnym gotowych rozwiązań, tworzenie czegoś własnego to akt rebelii.
+Bo w świecie pełnym gotowych rozwiązań, tworzenie czegoś własnego to akt rebelii. 
 
 Bo znalazłem spokój w tworzeniu dla siebie, a ten spokój jest cenniejszy niż jakiekolwiek uznanie.
 
 Bo jestem kierowcą który programuje, nie programistą który prowadzi – i to właśnie jest moja siła.
+
+Bo mam już dość iluzji tego świata, które ktoś za mnie wgrał mi w umysł .... i nie tylko mi.
 
 Tworzę narzędzia dla wolności. I nie zamierzam przestać.
 
