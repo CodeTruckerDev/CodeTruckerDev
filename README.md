@@ -43,6 +43,7 @@ Moja przygoda z kodem zaczęła się od prostej potrzeby — stworzenia czegoś,
 ## Projekty
 
 📱 **Aplikacja do zapisu pokonanego przebiegu**  
+
 Narzędzie stworzone z myślą o kierowcach – przede wszystkim dla mnie, ale może pomóc i Tobie.  
 Lokalna baza danych, prosty interfejs, żadnych kont, żadnych reklam.  
 Rejestruje przebieg i liczbę delegacji. Pracuję nad wersją rozszerzoną – teraz dostępna jest wersja uproszczona. W trakcie testów odkryłem dwa drobne błędy, które są zaplanowane do poprawy.
