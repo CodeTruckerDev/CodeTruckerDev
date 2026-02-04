@@ -26,11 +26,11 @@ Nie kończę idealnie. Kończę funkcjonalnie.
 
 Ale zawsze kończę.
 
-Nie ścigam się z trendami ani standardami które wymyślili inni.
+Nie ścigam się z trendami ani standardami, które wymyślili inni.
 
-Nie potrzebuję frameworków tylko dlatego, że są modne, ani testów jednostkowych bo tak "powinno być".
+Nie potrzebuję frameworków tylko dlatego że są modne, ani testów jednostkowych bo tak "powinno być".
 
-Wybieram rozwiązania, które rozumiem i które służą celowi – nie odwrotnie.
+Wybieram rozwiązania, które rozumiem, i które służą celowi – nie odwrotnie.
 
 Uczę się z dokumentacji, nie z pochwał. Debuguję problemy, nie ego.
 
@@ -40,7 +40,7 @@ Wierzę, że każdy ma prawo tworzyć, nawet jeśli nie pasuje do korporacyjnych
 
 Wierzę, że wartość kodu nie mierzy się oceną ekspertów, lecz tym, czy rozwiązuje twój problem.
 
-Wierzę, że prawdziwa niezależność to umiejętność kończenia własnych projektów bez potrzeby proszenia o pozwolenie – czy kod, czy życie.
+Wierzę, że prawdziwa niezależność to umiejętność kończenia własnych projektów bez potrzeby proszenia o pozwolenie.
 
 Wierzę, że moja wartość nie pochodzi z tego co robię, ale z tego kim jestem.
 
@@ -48,7 +48,7 @@ Wierzę, że moja wartość nie pochodzi z tego co robię, ale z tego kim jestem
 
 Bo to jest mój sposób na refaktoryzację życia – kawałek po kawałku, projekt po projekcie.
 
-Bo w świecie pełnym gotowych rozwiązań, tworzenie czegoś własnego to akt rebelii. 
+Bo w świecie pełnym gotowych rozwiązań, tworzenie czegoś własnego to akt buntu wobec systemu. 
 
 Bo znalazłem spokój w tworzeniu dla siebie, a ten spokój jest cenniejszy niż jakiekolwiek uznanie.
 
