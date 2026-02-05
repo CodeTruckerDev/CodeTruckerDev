@@ -42,7 +42,7 @@ Wierzę, że wartość kodu nie mierzy się oceną ekspertów, lecz tym, czy roz
 
 Wierzę, że prawdziwa niezależność to umiejętność kończenia własnych projektów bez potrzeby proszenia o pozwolenie.
 
-Wierzę, że moja wartość nie pochodzi z tego co robię, ale z tego kim jestem.
+Wierzę, że moja wartość pochodzi z tego kim jestem i co mogę osiągnąć. 
 
 ## Po co to robię?
 
