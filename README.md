@@ -82,7 +82,7 @@ To lekki, żartobliwy projekt pokazujący, że programowanie może być miłą r
 ---
 ## Cel
 
-Chcę rozwijać się jako programista — hobbystycznie, a może z czasem zawodowo. Koduję z pasją i uczę się każdego dnia.
+Tworzę i rozwijam się jako programista. Koduję z pasją i uczę się każdego dnia.
 Nie ograniczam się do Pythona — eksploruję również inne technologie i narzędzia.
 
 > "Nie jestem programistą z zawodu. Jestem nim z powołania."
