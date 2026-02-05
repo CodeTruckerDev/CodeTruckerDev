@@ -91,7 +91,7 @@ Nie ograniczam się do Pythona — eksploruję również inne technologie i narz
 
 Możesz mnie znaleźć tu, na GitHubie. Kiedyś może i w Google Play 😉
 
-[Wesprzyj rozwój moich projektów na PayPal.Me](https://paypal.me/CodeTruckerDev)
+[Jeśli moje narzędzia lub sposób myślenia okazały się dla Ciebie użyteczne, możesz mnie wesprzeć — to pozwala mi dalej tworzyć niezależnie.](https://paypal.me/CodeTruckerDev)
 
 📬 Jeśli chcesz coś napisać, skomentować albo po prostu się przywitać – śmiało.  
 Zostaw gwiazdkę ⭐ jeśli któryś z projektów Ci się przydał.  
