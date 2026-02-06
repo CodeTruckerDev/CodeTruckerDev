@@ -61,3 +61,15 @@ Tworzę narzędzia dla wolności. I nie zamierzam przestać.
 ---
 
 *Ten manifest nie szuka aprobaty. Jest deklaracją niezależności od systemu który mierzy wartość zewnętrznymi standardami. To mapa mojej drogi, którą przeszedłem świadomie i z której nie zamierzam schodzić.*
+
+---
+
+### Aktualizacja w trakcie procesu
+
+*Data: [6 luty 2026]*
+
+Mam poważne wątpliwości, czy to publikować. Czy się nie ośmieszę. Są dni, gdy myślę, że to ma sens. I dni jak dziś, gdy najchętniej nie wychodziłbym ze swojej kabiny.
+
+Ale przypominam sobie token z PyWaw. Ten fizyczny dowód, że czasem trzeba wejść pomimo strachu. Więc robię ten jeden mały krok: zapisuję te wątpliwości tutaj.
+
+To nie jest manifest pewności siebie. To jest manifest drogi, która czasem prowadzi przez ciemny las.
