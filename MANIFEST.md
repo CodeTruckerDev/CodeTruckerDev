@@ -42,7 +42,7 @@ Praca nad kodem pozwala mi mierzyć się z trudnościami w kontrolowany sposób 
 
 ---
 
-*Ten manifest nie szuka aprobaty. Jest deklaracją niezależności od systemu który mierzy wartość zewnętrznymi standardami. To mapa mojej drogi, którą przeszedłem świadomie i z której nie zamierzam schodzić.*
+*Ten manifest nie szuka aprobaty, ale szuka zrozumienia. Jest deklaracją niezależności od systemu który mierzy wartość zewnętrznymi standardami. To mapa mojej drogi, którą przeszedłem świadomie i z której nie zamierzam schodzić.*
 
 ---
 
