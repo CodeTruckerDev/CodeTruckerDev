@@ -2,61 +2,43 @@ This is my indepedent developer manifesto - written in Polish, my native languag
 
 # Manifest Twórcy Niezależnego
 
-Nie mam dyplomu z programowania.
+Tworzę oprogramowanie jako samouk, poza formalnym systemem edukacji i strukturami zespołowymi. Moja ścieżka nie wynika z buntu ani przypadku, lecz z wieloletniej praktyki i potrzebyrozwiązywania realnych problemów.
 
-Nie kończyłem kursów certyfikowanych.
-
-Nie pracuję w zespole programistów.
-
-Ale mam coś, czego nie da się kupić ani nauczyć w tydzień: samoświadomość, jasną wizję i wewnętrzną potrzebę tworzenia.
+W zamian wypracowałem własny sposób myślenia o problemach i konsekwentną potrzebę budowania rozwiązań, które mają dla mnie realną wartość.
 
 ## Kim jestem?
 
-Jestem twórcą niezależnym. Użytkownikiem rzeczywistości rozszerzonej - nie opierającej się na zasadach jakie ten świat wytworzył aby oceniać profesjonalizm.
+Jestem twórcą niezależnym - osobą, która ocenia własną pracę przez pryzmat działania i użyteczności, a nie formalnych kryteriów przypisanych do zawodu.
 
-Tworzę aplikacje, które działają, rozwiązują realne problemy i są użyteczne – przede wszystkim dla mnie.
+Tworzę aplikacje, które rozwiązują konkretne problemy i są użyteczne w praktyce.
 
-Nie eksperymentuję dla eksperymentu. Koduję, bo chcę coś usprawnić, uprościć, zastąpić chaos cyfrowym porządkiem.
+Nie eksperymentuję dla eksperymentu. Koduję żeby usprawnić istniejące procesy i porządkować rozwiązania, które wcześniej były niespójne lub niewygodne.
 
-Programuję dla radości tworzenia, nie dla zewnętrznego uznania.
+Programowanie jest dla mnie procesem twórczym. Chciałbym, aby moja praca była rozumiana i oceniana uczciwie, nawet jeśli nie zawsze jest to łatwe.
 
 ## Jak pracuję?
 
-Nie kończę idealnie. Kończę funkcjonalnie.
+Skupiam się na doprowadzaniu projektów do stanu używalności, zamiast dążyć do idealnej formy.
 
-Ale zawsze kończę.
+Pracuję w tempie, które pozwala mi rozumieć podejmowane decyzje i ich konsekwencje.
 
-Nie ścigam się z trendami ani standardami, które wymyślili inni.
+Uczę się poprzez dokumentację i rozwiązywanie realnych problemów, korygując błędyna bieżąco w trakcie pracy.
 
-Nie potrzebuję frameworków tylko dlatego że są modne, ani testów jednostkowych bo tak "powinno być".
-
-Wybieram rozwiązania, które rozumiem, i które służą celowi – nie odwrotnie.
-
-Uczę się z dokumentacji, nie z pochwał. Debuguję problemy, nie ego.
+Pracuję w środowisku, które dobrze znam i potrafię czytać koncentrując się na rozwiązywaniu problemów zamiast na zmianie narzędzi.
 
 ## W co wierzę?
 
-Wierzę, że każdy ma prawo tworzyć, nawet jeśli nie pasuje do korporacyjnych szablonów.
+Z mojego doświadczenia wynika, że możliwość tworzenia nie zależy od formalnych ról ani instytucjonalnych ram.
 
-Wierzę, że wartość kodu nie mierzy się oceną ekspertów, lecz tym, czy rozwiązuje twój problem.
+W praktyce wartość kodu ujawnia się wtedy, gdy rozwiązuje konkretny problem, niezależnie od opinii autorytetów.
 
-Wierzę, że prawdziwa niezależność to umiejętność kończenia własnych projektów bez potrzeby proszenia o pozwolenie.
-
-Wierzę, że moja wartość pochodzi z tego kim jestem i co mogę osiągnąć. 
+Niezależność rozumiem jako zdolność do prowadzenia własnych projektów od początku do końca, bez potrzeby zewnętrznej zgody.
 
 ## Po co to robię?
 
-Bo to jest mój sposób na refaktoryzację życia – kawałek po kawałku, projekt po projekcie.
+Tworzę, ponieważ sam proces budowania rozwiązań jest dla mnie źródłem skupienia i stabilności.
 
-Bo w świecie pełnym gotowych rozwiązań, tworzenie czegoś własnego to akt buntu wobec systemu. 
-
-Bo znalazłem spokój w tworzeniu dla siebie, a ten spokój jest cenniejszy niż jakiekolwiek uznanie.
-
-Bo jestem kierowcą który programuje, nie programistą który prowadzi – i to właśnie jest moja siła.
-
-Bo mam już dość iluzji tego świata, które ktoś za mnie wgrał mi w umysł .... i nie tylko mi.
-
-Tworzę narzędzia dla wolności. I nie zamierzam przestać.
+Praca nad kodem pozwala mi mierzyć się z trudnościami w kontrolowany sposób i doprowadzać rzeczy do końca nawet wtedy, gdy w innych obszarach bywa to dla mnie trudne.
 
 ---
 
