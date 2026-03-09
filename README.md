@@ -37,7 +37,7 @@ To repozytorium to zapis tej drogi, która zaczęła się kilka lat temu i dojrz
 🚛 Na co dzień - kierowca zawodowy  
 💻 Po godzinach - pasjonat programowania  
 
-Moja przygoda z kodem zaczęła się od prostej potrzeby — stworzenia czegoś, co realnie pomaga. Tak powstały pierwsze linijki kodu, które miały ograniczać uruchomienia systemu Windows. Od tego czasu tworzę aplikacje użytkowe, głównie w **Pythonie**, które ułatwiają życie – moje i być może innych. Specjalizuję się w graficznych aplikacjach użytkowych — od desktopowych po mobilne.
+Moja przygoda z kodem zaczęła się od prostej potrzeby — stworzenia czegoś, co realnie pomaga. Tak powstały pierwsze linijki kodu, które miały ograniczać uruchomienia systemu Windows. Od tego czasu tworzę aplikacje użytkowe, głównie w **Pythonie**, które ułatwiają życie – moje i być może innych. Specjalizuję się w graficznych aplikacjach użytkowych — od desktopowych po mobilne. I nie są mi obce rozwiązania CLI.
 
 ## Technologie, których używam najczęściej
 
