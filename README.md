@@ -1,3 +1,10 @@
+CodeTruckerDev: Inżynieria Rzeczywistości Rozszerzonej
+
+​„Jestem programistą, bo rozwiązuję problemy kodem. Reszta to iluzja.”
+
+​[Self-Taught Odyssey: Wielka historia z nietuzinkowym odkryciem]() Trzydziestoletnia podróż od Turbo Pascala, przez kabinę ciężarówki, aż po autorskie systemy bezpieczeństwa.
+
+
 ## 📜 Spis treści
 
 - [🎯 Wizytówka – Super Secret Searcher](#wizytówka--super-secret-searcher)
