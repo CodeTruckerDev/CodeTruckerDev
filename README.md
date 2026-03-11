@@ -1,6 +1,6 @@
-CodeTruckerDev: Inżynieria Rzeczywistości Rozszerzonej
+CodeTruckerDev: 
 
-​„Jestem programistą, bo rozwiązuję problemy kodem. Reszta to iluzja.”
+```​„Jestem programistą, bo rozwiązuję problemy kodem. Reszta to iluzja.”```
 
 ​[Self-Taught Odyssey: Wielka historia z nietuzinkowym odkryciem](https://github.com/CodeTruckerDev/Odyseja-samouka) Trzydziestoletnia podróż od Turbo Pascala, przez kabinę ciężarówki, aż po autorskie systemy bezpieczeństwa.
 
